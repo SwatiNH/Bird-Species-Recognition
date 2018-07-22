@@ -1,6 +1,6 @@
 # Bird-Species-Recognition
 Machine Learning Project
-# Problem Statement
+## Problem Statement
 
 Building an optimal Bird Species Classifier.
 
@@ -8,10 +8,12 @@ Building an optimal Bird Species Classifier.
 ## Dataset details
 
 
-### Dataset: Caltech-UCSD Birds-200-2011 (CUB-200-2011) is an extended version of the CUB-200 dataset, with roughly double the number of images per class and new part location annotations. For detailed information about the dataset, please see the technical report linked below.
+### Dataset
+Caltech-UCSD Birds-200-2011 (CUB-200-2011) is an extended version of the CUB-200 dataset, with roughly double the number of images per class and new part location annotations. For detailed information about the dataset, please see the technical report linked below.
 
-### Number of categories: 200
-To name a few
+#### Number of categories
+* 200 catergories
+#### To name a few
 * Black_footed_Albatross
 * Laysan_Albatross
 * Sooty_Albatross
@@ -19,9 +21,11 @@ To name a few
 * Rhinoceros_Auklet
 * Brewer_Blackbird
 
-### Number of images: 11,788
+#### Number of images
+* 11,788
 
-### List of attributes : Total 312 binary attributes
+#### List of attributes
+Total 312 binary attributes
 To name a few
 * has_bill_shape::curved_(up_or_down)
 * 10 has_wing_color::blue
